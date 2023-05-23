@@ -1,0 +1,104 @@
+[
+    {
+        "query": "e61396751d4d8be68da5809b06601d83",
+        "variables": {
+            "request": {
+                "tracking": {
+                    "screenName": "AttractionsFusion",
+                    "pageviewUid": "LIT@VlDJfkfZHryrwMOL7gjl"
+                },
+                "routeParameters": {
+                    "geoId": null,
+                    "pagee": null,
+                    "filters": [],
+                    "contentType": "attraction",
+                    "webVariant": "AttractionsFusion"
+                },
+                "updateToken": null
+            },
+            "commerce": {
+                "attractionCommerce": {
+                    "pax": [
+                        {
+                            "ageBand": "ADULT",
+                            "count": 2
+                        }
+                    ]
+                }
+            },
+            "tracking": {
+                "screenName": "AttractionsFusion",
+                "pageviewUid": "LIT@VlDJfkfZHryrwMOL7gjl"
+            },
+            "sessionId": "C1FC08E5278A475287247E9D0DD869DC",
+            "unitLength": "MILES",
+            "currency": "USD",
+            "currentGeoPoint": null,
+            "sectionTypes": [
+                "Mixer_ArticlesHeroStoriesHighlightSection",
+                "Mixer_ArticlesMosaicSection",
+                "Mixer_FeaturedStoriesSection",
+                "Mixer_Shelf",
+                "Mixer_EditorialFeatureSection",
+                "Mixer_FullImageFeatureCardSection",
+                "Mixer_InsetImageFeatureCardSection",
+                "Mixer_CoverPageHeroSection",
+                "Mixer_AdPlaceholderSection",
+                "Mixer_CategorySearchesSection",
+                "Mixer_FactSheetSection",
+                "Mixer_PromotionalBannerSection",
+                "Mixer_TravelersChoiceSection",
+                "Mixer_InteractiveMapSection",
+                "Mixer_ArticlesKeepExploringSection",
+                "Mixer_AsFeaturedInWidgetSection",
+                "Mixer_VideoPlayerSection",
+                "Mixer_ReviewExcerptSection"
+            ],
+            "sectionContentTypes": [
+                "Mixer_DescriptionAndCarousel",
+                "Mixer_FlexGrid",
+                "Mixer_ImageAndCarousel",
+                "Mixer_MediumCarousel",
+                "Mixer_NarrowCarousel",
+                "Mixer_PlusCarousel",
+                "Mixer_TravelerSpotlightCarousel",
+                "Mixer_WideCarousel",
+                "Mixer_ProminentFlexList"
+            ],
+            "cardTypes": [
+                "Mixer_PoiVerticalStandardCard",
+                "Mixer_PoiVerticalMerchandisingCard",
+                "Mixer_PoiVerticalDescriptionCard",
+                "Mixer_PoiVerticalNameWithButtonCard",
+                "Mixer_GeoVerticalMinimalCard",
+                "Mixer_TripVerticalContributorCard",
+                "Mixer_VrGeoVerticalMinimalCard",
+                "Mixer_GeoImageBackgroundCard",
+                "Mixer_CustomImageBackgroundCard",
+                "Mixer_AttractionTaxonomyImageBackgroundCard",
+                "Mixer_LinkPostEditorialCard",
+                "Mixer_TripEditorialCard",
+                "Mixer_VideoEditorialCard",
+                "Mixer_ForumCard",
+                "Mixer_UgcEditorialFeatureLinkPostCard",
+                "Mixer_UgcEditorialFeatureTripCard",
+                "Mixer_ReviewVerticalContributorCard",
+                "Mixer_CustomVerticalMinimalCard",
+                "Mixer_AttractionFlexCard",
+                "Mixer_GeoVerticalNameWithButtonCard"
+            ],
+            "route": {
+                "page": "AttractionsFusion",
+                "params": {
+                    "pagee": null,
+                    "geoId": null,
+                    "contentType": "attraction",
+                    "webVariant": "AttractionsFusion"
+                }
+            },
+            "mapSurface": false,
+            "debug": false,
+            "polling": false
+        }
+    }
+]

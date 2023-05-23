@@ -1,0 +1,35 @@
+[
+    {
+        "query": "5eec1d8288aa8741918a2a5051d289ef",
+        "variables": {
+            "request": {
+                "query": null,
+                "limit": 10,
+                "scope": "IN_GEO_EXTEND_WORLDWIDE",
+                "locale": "en-US",
+                "scopeGeoId": 191,
+                "searchCenter": null,
+                "types": [
+                    "LOCATION",
+                    "QUERY_SUGGESTION",
+                    "RESCUE_RESULT"
+                ],
+                "locationTypes": [
+                    "GEO"
+
+                ],
+                "userId": null,
+                "context": {
+                    "searchSessionId": "000cfd29f7f5263a.ssid",
+                    "typeaheadId": "1683095895132",
+                    "uiOrigin": "SINGLE_SEARCH_NAV",
+                    "routeUid": "d4f79753-5350-4ab7-a6f8-26c9e37ce696"
+                },
+
+                "enabledFeatures": [
+                    "typeahead-q"
+                ]
+            }
+        }
+    }
+]

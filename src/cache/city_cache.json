@@ -1,0 +1,1282 @@
+[
+    {
+        "city": "Guangzhou",
+        "state": "",
+        "country": "China",
+        "namespace": "guangzhou-china",
+        "lat": 23.13,
+        "lng": 113.26,
+        "population": 26940000,
+        "processed": false
+    },
+    {
+        "city": "Shanghai",
+        "state": "",
+        "country": "China",
+        "namespace": "shanghai-china",
+        "lat": 31.1667,
+        "lng": 121.4667,
+        "population": 24073000,
+        "processed": false
+    },
+    {
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "namespace": "seoul-south-korea",
+        "lat": 37.56,
+        "lng": 126.99,
+        "population": 23016000,
+        "processed": false
+    },
+    {
+        "city": "Mexico City",
+        "state": "",
+        "country": "Mexico",
+        "namespace": "mexico-city-mexico",
+        "lat": 19.4333,
+        "lng": -99.1333,
+        "population": 21804000,
+        "processed": false
+    },
+    {
+        "city": "Cairo",
+        "state": "",
+        "country": "Egypt",
+        "namespace": "cairo-egypt",
+        "lat": 30.0444,
+        "lng": 31.2358,
+        "population": 20296000,
+        "processed": false
+    },
+    {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "namespace": "new-york-usa",
+        "lat": 40.6943,
+        "lng": -73.9249,
+        "population": 18713220,
+        "processed": false
+    },
+    {
+        "city": "Beijing",
+        "state": "",
+        "country": "China",
+        "namespace": "beijing-china",
+        "lat": 39.904,
+        "lng": 116.4075,
+        "population": 18522000,
+        "processed": false
+    },
+    {
+        "city": "Bangkok",
+        "state": "",
+        "country": "Thailand",
+        "namespace": "bangkok-thailand",
+        "lat": 13.7525,
+        "lng": 100.4942,
+        "population": 18007000,
+        "processed": false
+    },
+    {
+        "city": "Shenzhen",
+        "state": "",
+        "country": "China",
+        "namespace": "shenzhen-china",
+        "lat": 22.535,
+        "lng": 114.054,
+        "population": 17619000,
+        "processed": false
+    },
+    {
+        "city": "Moscow",
+        "state": "",
+        "country": "Russia",
+        "namespace": "moscow-russia",
+        "lat": 55.7558,
+        "lng": 37.6178,
+        "population": 17332000,
+        "processed": false
+    },
+    {
+        "city": "Buenos Aires",
+        "state": "",
+        "country": "Argentina",
+        "namespace": "buenos-aires-argentina",
+        "lat": -34.5997,
+        "lng": -58.3819,
+        "population": 16710000,
+        "processed": false
+    },
+    {
+        "city": "Istanbul",
+        "state": "",
+        "country": "Turkey",
+        "namespace": "istanbul-turkey",
+        "lat": 41.0136,
+        "lng": 28.955,
+        "population": 16079000,
+        "processed": false
+    },
+    {
+        "city": "Ho Chi Minh City",
+        "state": "",
+        "country": "Vietnam",
+        "namespace": "ho-chi-minh-city-vietnam",
+        "lat": 10.7756,
+        "lng": 106.7019,
+        "population": 15136000,
+        "processed": false
+    },
+    {
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "namespace": "los-angeles-usa",
+        "lat": 34.1139,
+        "lng": -118.4068,
+        "population": 12750807,
+        "processed": false
+    },
+    {
+        "city": "Rio de Janeiro",
+        "state": "",
+        "country": "Brazil",
+        "namespace": "rio-de-janeiro-brazil",
+        "lat": -22.9111,
+        "lng": -43.2056,
+        "population": 12592000,
+        "processed": false
+    },
+    {
+        "city": "London",
+        "state": "",
+        "country": "UK",
+        "namespace": "london-uk",
+        "lat": 51.5072,
+        "lng": -0.1275,
+        "population": 11262000,
+        "processed": true
+    },
+    {
+        "city": "Paris",
+        "state": "",
+        "country": "France",
+        "namespace": "paris-france",
+        "lat": 48.8567,
+        "lng": 2.3522,
+        "population": 11060000,
+        "processed": false
+    },
+    {
+        "city": "Taipei",
+        "state": "",
+        "country": "Taiwan",
+        "namespace": "taipei-taiwan",
+        "lat": 25.0375,
+        "lng": 121.5625,
+        "population": 9078000,
+        "processed": false
+    },
+    {
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA",
+        "namespace": "chicago-usa",
+        "lat": 41.8373,
+        "lng": -87.6862,
+        "population": 8604203,
+        "processed": false
+    },
+    {
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "namespace": "hong-kong-hong-kong",
+        "lat": 22.3,
+        "lng": 114.2,
+        "population": 7450000,
+        "processed": false
+    },
+    {
+        "city": "Santiago",
+        "state": "",
+        "country": "Chile",
+        "namespace": "santiago-chile",
+        "lat": -33.4372,
+        "lng": -70.6506,
+        "population": 7171000,
+        "processed": false
+    },
+    {
+        "city": "Miami",
+        "state": "FL",
+        "country": "USA",
+        "namespace": "miami-usa",
+        "lat": 25.7839,
+        "lng": -80.2102,
+        "population": 6445545,
+        "processed": false
+    },
+    {
+        "city": "Madrid",
+        "state": "",
+        "country": "Spain",
+        "namespace": "madrid-spain",
+        "lat": 40.4169,
+        "lng": -3.7033,
+        "population": 6211000,
+        "processed": false
+    },
+    {
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "namespace": "singapore-singapore",
+        "lat": 1.3,
+        "lng": 103.8,
+        "population": 5983000,
+        "processed": false
+    },
+    {
+        "city": "Dallas",
+        "state": "TX",
+        "country": "USA",
+        "namespace": "dallas-usa",
+        "lat": 32.7936,
+        "lng": -96.7662,
+        "population": 5743938,
+        "processed": false
+    },
+    {
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "USA",
+        "namespace": "philadelphia-usa",
+        "lat": 40.0077,
+        "lng": -75.1339,
+        "population": 5649300,
+        "processed": false
+    },
+    {
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "namespace": "houston-usa",
+        "lat": 29.7863,
+        "lng": -95.3889,
+        "population": 5464251,
+        "processed": false
+    },
+    {
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "USA",
+        "namespace": "atlanta-usa",
+        "lat": 33.7627,
+        "lng": -84.4224,
+        "population": 5449398,
+        "processed": false
+    },
+    {
+        "city": "Toronto",
+        "state": "",
+        "country": "Canada",
+        "namespace": "toronto-canada",
+        "lat": 43.7417,
+        "lng": -79.3733,
+        "population": 5429524,
+        "processed": false
+    },
+    {
+        "city": "Saint Petersburg",
+        "state": "",
+        "country": "Russia",
+        "namespace": "saint-petersburg-russia",
+        "lat": 59.95,
+        "lng": 30.3167,
+        "population": 5384342,
+        "processed": false
+    },
+    {
+        "city": "Washington",
+        "state": "DC",
+        "country": "USA",
+        "namespace": "washington-usa",
+        "lat": 38.9047,
+        "lng": -77.0163,
+        "population": 5379184,
+        "processed": false
+    },
+    {
+        "city": "Sydney",
+        "state": "",
+        "country": "Australia",
+        "namespace": "sydney-australia",
+        "lat": -33.8678,
+        "lng": 151.21,
+        "population": 4840600,
+        "processed": false
+    },
+    {
+        "city": "Barcelona",
+        "state": "",
+        "country": "Spain",
+        "namespace": "barcelona-spain",
+        "lat": 41.3825,
+        "lng": 2.1769,
+        "population": 4800000,
+        "processed": false
+    },
+    {
+        "city": "Boston",
+        "state": "MA",
+        "country": "USA",
+        "namespace": "boston-usa",
+        "lat": 42.3188,
+        "lng": -71.0846,
+        "population": 4688346,
+        "processed": false
+    },
+    {
+        "city": "Melbourne",
+        "state": "",
+        "country": "Australia",
+        "namespace": "melbourne-australia",
+        "lat": -37.8142,
+        "lng": 144.9631,
+        "population": 4529500,
+        "processed": false
+    },
+    {
+        "city": "Berlin",
+        "state": "",
+        "country": "Germany",
+        "namespace": "berlin-germany",
+        "lat": 52.52,
+        "lng": 13.405,
+        "population": 4473101,
+        "processed": false
+    },
+    {
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA",
+        "namespace": "phoenix-usa",
+        "lat": 33.5722,
+        "lng": -112.0891,
+        "population": 4219697,
+        "processed": false
+    },
+    {
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "namespace": "seattle-usa",
+        "lat": 47.6211,
+        "lng": -122.3244,
+        "population": 3789215,
+        "processed": false
+    },
+    {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "namespace": "san-francisco-usa",
+        "lat": 37.7562,
+        "lng": -122.443,
+        "population": 3592294,
+        "processed": false
+    },
+    {
+        "city": "Montr\u00e9al",
+        "state": "",
+        "country": "Canada",
+        "namespace": "montr\u00e9al-canada",
+        "lat": 45.5089,
+        "lng": -73.5617,
+        "population": 3519595,
+        "processed": false
+    },
+    {
+        "city": "Detroit",
+        "state": "MI",
+        "country": "USA",
+        "namespace": "detroit-usa",
+        "lat": 42.3834,
+        "lng": -83.1024,
+        "population": 3506126,
+        "processed": false
+    },
+    {
+        "city": "Dubai",
+        "state": "",
+        "country": "United Arab Emirates",
+        "namespace": "dubai-united-arab-emirates",
+        "lat": 25.2631,
+        "lng": 55.2972,
+        "population": 3331420,
+        "processed": false
+    },
+    {
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "namespace": "san-diego-usa",
+        "lat": 32.8312,
+        "lng": -117.1225,
+        "population": 3220118,
+        "processed": false
+    },
+    {
+        "city": "Athens",
+        "state": "",
+        "country": "Greece",
+        "namespace": "athens-greece",
+        "lat": 37.9842,
+        "lng": 23.7281,
+        "population": 3041131,
+        "processed": false
+    },
+    {
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "USA",
+        "namespace": "minneapolis-usa",
+        "lat": 44.9635,
+        "lng": -93.2678,
+        "population": 2977172,
+        "processed": false
+    },
+    {
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA",
+        "namespace": "tampa-usa",
+        "lat": 27.9942,
+        "lng": -82.4451,
+        "population": 2908063,
+        "processed": false
+    },
+    {
+        "city": "Denver",
+        "state": "CO",
+        "country": "USA",
+        "namespace": "denver-usa",
+        "lat": 39.7621,
+        "lng": -104.8759,
+        "population": 2876625,
+        "processed": false
+    },
+    {
+        "city": "Rome",
+        "state": "",
+        "country": "Italy",
+        "namespace": "rome-italy",
+        "lat": 41.8931,
+        "lng": 12.4828,
+        "population": 2872800,
+        "processed": false
+    },
+    {
+        "city": "Stuttgart",
+        "state": "",
+        "country": "Germany",
+        "namespace": "stuttgart-germany",
+        "lat": 48.7775,
+        "lng": 9.18,
+        "population": 2787724,
+        "processed": false
+    },
+    {
+        "city": "Manchester",
+        "state": "",
+        "country": "UK",
+        "namespace": "manchester-uk",
+        "lat": 53.4794,
+        "lng": -2.2453,
+        "population": 2705000,
+        "processed": false
+    },
+    {
+        "city": "Munich",
+        "state": "",
+        "country": "Germany",
+        "namespace": "munich-germany",
+        "lat": 48.1375,
+        "lng": 11.575,
+        "population": 2606021,
+        "processed": false
+    },
+    {
+        "city": "Hamburg",
+        "state": "",
+        "country": "Germany",
+        "namespace": "hamburg-germany",
+        "lat": 53.55,
+        "lng": 10.0,
+        "population": 2484800,
+        "processed": false
+    },
+    {
+        "city": "Brisbane",
+        "state": "",
+        "country": "Australia",
+        "namespace": "brisbane-australia",
+        "lat": -27.4678,
+        "lng": 153.0281,
+        "population": 2360241,
+        "processed": false
+    },
+    {
+        "city": "Vancouver",
+        "state": "",
+        "country": "Canada",
+        "namespace": "vancouver-canada",
+        "lat": 49.25,
+        "lng": -123.1,
+        "population": 2264823,
+        "processed": false
+    },
+    {
+        "city": "Perth",
+        "state": "",
+        "country": "Australia",
+        "namespace": "perth-australia",
+        "lat": -31.9559,
+        "lng": 115.8606,
+        "population": 2141834,
+        "processed": false
+    },
+    {
+        "city": "Havana",
+        "state": "",
+        "country": "Cuba",
+        "namespace": "havana-cuba",
+        "lat": 23.1367,
+        "lng": -82.3589,
+        "population": 2141652,
+        "processed": false
+    },
+    {
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "USA",
+        "namespace": "baltimore-usa",
+        "lat": 39.3051,
+        "lng": -76.6144,
+        "population": 2106068,
+        "processed": false
+    },
+    {
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "USA",
+        "namespace": "las-vegas-usa",
+        "lat": 36.2333,
+        "lng": -115.2654,
+        "population": 2104198,
+        "processed": false
+    },
+    {
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "namespace": "portland-usa",
+        "lat": 45.5372,
+        "lng": -122.65,
+        "population": 2074775,
+        "processed": false
+    },
+    {
+        "city": "San Antonio",
+        "state": "TX",
+        "country": "USA",
+        "namespace": "san-antonio-usa",
+        "lat": 29.4658,
+        "lng": -98.5253,
+        "population": 2049293,
+        "processed": false
+    },
+    {
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "USA",
+        "namespace": "st.-louis-usa",
+        "lat": 38.6358,
+        "lng": -90.2451,
+        "population": 2024074,
+        "processed": false
+    },
+    {
+        "city": "Vienna",
+        "state": "",
+        "country": "Austria",
+        "namespace": "vienna-austria",
+        "lat": 48.2083,
+        "lng": 16.3725,
+        "population": 1973403,
+        "processed": false
+    },
+    {
+        "city": "Bucharest",
+        "state": "",
+        "country": "Romania",
+        "namespace": "bucharest-romania",
+        "lat": 44.4325,
+        "lng": 26.1039,
+        "population": 1883425,
+        "processed": false
+    },
+    {
+        "city": "Warsaw",
+        "state": "",
+        "country": "Poland",
+        "namespace": "warsaw-poland",
+        "lat": 52.23,
+        "lng": 21.0111,
+        "population": 1860281,
+        "processed": false
+    },
+    {
+        "city": "Orlando",
+        "state": "FL",
+        "country": "USA",
+        "namespace": "orlando-usa",
+        "lat": 28.4772,
+        "lng": -81.3369,
+        "population": 1822394,
+        "processed": false
+    },
+    {
+        "city": "Brussels",
+        "state": "",
+        "country": "Belgium",
+        "namespace": "brussels-belgium",
+        "lat": 50.8467,
+        "lng": 4.3525,
+        "population": 1743000,
+        "processed": false
+    },
+    {
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "USA",
+        "namespace": "cleveland-usa",
+        "lat": 41.4767,
+        "lng": -81.6804,
+        "population": 1710093,
+        "processed": false
+    },
+    {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "USA",
+        "namespace": "pittsburgh-usa",
+        "lat": 40.4396,
+        "lng": -79.9762,
+        "population": 1703266,
+        "processed": false
+    },
+    {
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA",
+        "namespace": "austin-usa",
+        "lat": 30.3004,
+        "lng": -97.7522,
+        "population": 1687311,
+        "processed": false
+    },
+    {
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "USA",
+        "namespace": "cincinnati-usa",
+        "lat": 39.1413,
+        "lng": -84.5061,
+        "population": 1662691,
+        "processed": false
+    },
+    {
+        "city": "Kansas City",
+        "state": "MO",
+        "country": "USA",
+        "namespace": "kansas-city-usa",
+        "lat": 39.1239,
+        "lng": -94.5541,
+        "population": 1636715,
+        "processed": false
+    },
+    {
+        "city": "Stockholm",
+        "state": "",
+        "country": "Sweden",
+        "namespace": "stockholm-sweden",
+        "lat": 59.3294,
+        "lng": 18.0686,
+        "population": 1611776,
+        "processed": false
+    },
+    {
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "USA",
+        "namespace": "indianapolis-usa",
+        "lat": 39.7771,
+        "lng": -86.1458,
+        "population": 1588961,
+        "processed": false
+    },
+    {
+        "city": "Columbus",
+        "state": "OH",
+        "country": "USA",
+        "namespace": "columbus-usa",
+        "lat": 39.9862,
+        "lng": -82.985,
+        "population": 1562009,
+        "processed": false
+    },
+    {
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "USA",
+        "namespace": "charlotte-usa",
+        "lat": 35.208,
+        "lng": -80.8304,
+        "population": 1512923,
+        "processed": false
+    },
+    {
+        "city": "Abu Dhabi",
+        "state": "",
+        "country": "United Arab Emirates",
+        "namespace": "abu-dhabi-united-arab-emirates",
+        "lat": 24.4667,
+        "lng": 54.3667,
+        "population": 1483000,
+        "processed": false
+    },
+    {
+        "city": "Amsterdam",
+        "state": "",
+        "country": "Netherlands",
+        "namespace": "amsterdam-netherlands",
+        "lat": 52.3728,
+        "lng": 4.8936,
+        "population": 1459402,
+        "processed": false
+    },
+    {
+        "city": "Belgrade",
+        "state": "",
+        "country": "Serbia",
+        "namespace": "belgrade-serbia",
+        "lat": 44.82,
+        "lng": 20.46,
+        "population": 1378682,
+        "processed": false
+    },
+    {
+        "city": "Copenhagen",
+        "state": "",
+        "country": "Denmark",
+        "namespace": "copenhagen-denmark",
+        "lat": 55.6761,
+        "lng": 12.5683,
+        "population": 1366301,
+        "processed": false
+    },
+    {
+        "city": "Milan",
+        "state": "",
+        "country": "Italy",
+        "namespace": "milan-italy",
+        "lat": 45.4669,
+        "lng": 9.19,
+        "population": 1366180,
+        "processed": false
+    },
+    {
+        "city": "Milwaukee",
+        "state": "WI",
+        "country": "USA",
+        "namespace": "milwaukee-usa",
+        "lat": 43.0642,
+        "lng": -87.9673,
+        "population": 1365787,
+        "processed": false
+    },
+    {
+        "city": "Auckland",
+        "state": "",
+        "country": "New Zealand",
+        "namespace": "auckland-new-zealand",
+        "lat": -36.8406,
+        "lng": 174.74,
+        "population": 1346091,
+        "processed": false
+    },
+    {
+        "city": "Prague",
+        "state": "",
+        "country": "Czechia",
+        "namespace": "prague-czechia",
+        "lat": 50.0875,
+        "lng": 14.4214,
+        "population": 1335084,
+        "processed": false
+    },
+    {
+        "city": "Helsinki",
+        "state": "",
+        "country": "Finland",
+        "namespace": "helsinki-finland",
+        "lat": 60.1708,
+        "lng": 24.9375,
+        "population": 1268296,
+        "processed": false
+    },
+    {
+        "city": "Calgary",
+        "state": "",
+        "country": "Canada",
+        "namespace": "calgary-canada",
+        "lat": 51.05,
+        "lng": -114.0667,
+        "population": 1239220,
+        "processed": false
+    },
+    {
+        "city": "Providence",
+        "state": "RI",
+        "country": "USA",
+        "namespace": "providence-usa",
+        "lat": 41.823,
+        "lng": -71.4187,
+        "population": 1203230,
+        "processed": false
+    },
+    {
+        "city": "Jacksonville",
+        "state": "FL",
+        "country": "USA",
+        "namespace": "jacksonville-usa",
+        "lat": 30.3322,
+        "lng": -81.6749,
+        "population": 1181496,
+        "processed": false
+    },
+    {
+        "city": "Dublin",
+        "state": "",
+        "country": "Ireland",
+        "namespace": "dublin-ireland",
+        "lat": 53.35,
+        "lng": -6.2603,
+        "population": 1173179,
+        "processed": false
+    },
+    {
+        "city": "Sevilla",
+        "state": "",
+        "country": "Spain",
+        "namespace": "sevilla-spain",
+        "lat": 37.24,
+        "lng": -5.99,
+        "population": 1100000,
+        "processed": false
+    },
+    {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "USA",
+        "namespace": "salt-lake-city-usa",
+        "lat": 40.7777,
+        "lng": -111.9306,
+        "population": 1098526,
+        "processed": false
+    },
+    {
+        "city": "Cologne",
+        "state": "",
+        "country": "Germany",
+        "namespace": "cologne-germany",
+        "lat": 50.9364,
+        "lng": 6.9528,
+        "population": 1083498,
+        "processed": false
+    },
+    {
+        "city": "Nashville",
+        "state": "TN",
+        "country": "USA",
+        "namespace": "nashville-usa",
+        "lat": 36.1715,
+        "lng": -86.7843,
+        "population": 1081903,
+        "processed": false
+    },
+    {
+        "city": "Memphis",
+        "state": "TN",
+        "country": "USA",
+        "namespace": "memphis-usa",
+        "lat": 35.1046,
+        "lng": -89.9773,
+        "population": 1066967,
+        "processed": false
+    },
+    {
+        "city": "New Orleans",
+        "state": "LA",
+        "country": "USA",
+        "namespace": "new-orleans-usa",
+        "lat": 30.0687,
+        "lng": -89.9288,
+        "population": 1020886,
+        "processed": false
+    },
+    {
+        "city": "Naples",
+        "state": "",
+        "country": "Italy",
+        "namespace": "naples-italy",
+        "lat": 40.8333,
+        "lng": 14.25,
+        "population": 966144,
+        "processed": false
+    },
+    {
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "USA",
+        "namespace": "tucson-usa",
+        "lat": 32.1545,
+        "lng": -110.8782,
+        "population": 888486,
+        "processed": false
+    },
+    {
+        "city": "Turin",
+        "state": "",
+        "country": "Italy",
+        "namespace": "turin-italy",
+        "lat": 45.0792,
+        "lng": 7.6761,
+        "population": 870952,
+        "processed": false
+    },
+    {
+        "city": "Marseille",
+        "state": "",
+        "country": "France",
+        "namespace": "marseille-france",
+        "lat": 43.2964,
+        "lng": 5.37,
+        "population": 870731,
+        "processed": false
+    },
+    {
+        "city": "Liverpool",
+        "state": "",
+        "country": "UK",
+        "namespace": "liverpool-uk",
+        "lat": 53.4075,
+        "lng": -2.9919,
+        "population": 864122,
+        "processed": false
+    },
+    {
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "namespace": "omaha-usa",
+        "lat": 41.2627,
+        "lng": -96.0522,
+        "population": 847819,
+        "processed": false
+    },
+    {
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "USA",
+        "namespace": "honolulu-usa",
+        "lat": 21.3294,
+        "lng": -157.846,
+        "population": 820987,
+        "processed": false
+    },
+    {
+        "city": "Zagreb",
+        "state": "",
+        "country": "Croatia",
+        "namespace": "zagreb-croatia",
+        "lat": 45.8167,
+        "lng": 15.9833,
+        "population": 809268,
+        "processed": false
+    },
+    {
+        "city": "Krak\u00f3w",
+        "state": "",
+        "country": "Poland",
+        "namespace": "krak\u00f3w-poland",
+        "lat": 50.0614,
+        "lng": 19.9372,
+        "population": 800653,
+        "processed": false
+    },
+    {
+        "city": "Valencia",
+        "state": "",
+        "country": "Spain",
+        "namespace": "valencia-spain",
+        "lat": 39.47,
+        "lng": -0.3764,
+        "population": 792492,
+        "processed": false
+    },
+    {
+        "city": "Bilbao",
+        "state": "",
+        "country": "Spain",
+        "namespace": "bilbao-spain",
+        "lat": 43.2569,
+        "lng": -2.9236,
+        "population": 775000,
+        "processed": false
+    },
+    {
+        "city": "Frankfurt",
+        "state": "",
+        "country": "Germany",
+        "namespace": "frankfurt-germany",
+        "lat": 50.1106,
+        "lng": 8.6822,
+        "population": 764104,
+        "processed": false
+    },
+    {
+        "city": "Birmingham",
+        "state": "AL",
+        "country": "USA",
+        "namespace": "birmingham-usa",
+        "lat": 33.5277,
+        "lng": -86.7987,
+        "population": 739573,
+        "processed": false
+    },
+    {
+        "city": "Quebec City",
+        "state": "",
+        "country": "Canada",
+        "namespace": "quebec-city-canada",
+        "lat": 46.8139,
+        "lng": -71.2081,
+        "population": 705103,
+        "processed": false
+    },
+    {
+        "city": "Palermo",
+        "state": "",
+        "country": "Italy",
+        "namespace": "palermo-italy",
+        "lat": 38.1157,
+        "lng": 13.3613,
+        "population": 668405,
+        "processed": false
+    },
+    {
+        "city": "D\u00fcsseldorf",
+        "state": "",
+        "country": "Germany",
+        "namespace": "d\u00fcsseldorf-germany",
+        "lat": 51.2333,
+        "lng": 6.7833,
+        "population": 645923,
+        "processed": false
+    },
+    {
+        "city": "Rotterdam",
+        "state": "",
+        "country": "Netherlands",
+        "namespace": "rotterdam-netherlands",
+        "lat": 51.9167,
+        "lng": 4.5,
+        "population": 631155,
+        "processed": false
+    },
+    {
+        "city": "Glasgow",
+        "state": "",
+        "country": "UK",
+        "namespace": "glasgow-uk",
+        "lat": 55.8611,
+        "lng": -4.25,
+        "population": 626410,
+        "processed": false
+    },
+    {
+        "city": "Leipzig",
+        "state": "",
+        "country": "Germany",
+        "namespace": "leipzig-germany",
+        "lat": 51.34,
+        "lng": 12.375,
+        "population": 615081,
+        "processed": false
+    },
+    {
+        "city": "Gothenburg",
+        "state": "",
+        "country": "Sweden",
+        "namespace": "gothenburg-sweden",
+        "lat": 57.7075,
+        "lng": 11.9675,
+        "population": 607882,
+        "processed": false
+    },
+    {
+        "city": "Dortmund",
+        "state": "",
+        "country": "Germany",
+        "namespace": "dortmund-germany",
+        "lat": 51.5167,
+        "lng": 7.4667,
+        "population": 587696,
+        "processed": false
+    },
+    {
+        "city": "Palma",
+        "state": "",
+        "country": "Spain",
+        "namespace": "palma-spain",
+        "lat": 39.5667,
+        "lng": 2.65,
+        "population": 550000,
+        "processed": false
+    },
+    {
+        "city": "The Hague",
+        "state": "",
+        "country": "Netherlands",
+        "namespace": "the-hague-netherlands",
+        "lat": 52.08,
+        "lng": 4.31,
+        "population": 548320,
+        "processed": false
+    },
+    {
+        "city": "Antwerp",
+        "state": "",
+        "country": "Belgium",
+        "namespace": "antwerp-belgium",
+        "lat": 51.2178,
+        "lng": 4.4003,
+        "population": 529247,
+        "processed": false
+    },
+    {
+        "city": "Nuremberg",
+        "state": "",
+        "country": "Germany",
+        "namespace": "nuremberg-germany",
+        "lat": 49.4539,
+        "lng": 11.0775,
+        "population": 515543,
+        "processed": false
+    },
+    {
+        "city": "Edinburgh",
+        "state": "",
+        "country": "UK",
+        "namespace": "edinburgh-uk",
+        "lat": 55.9533,
+        "lng": -3.1892,
+        "population": 488050,
+        "processed": false
+    },
+    {
+        "city": "Cardiff",
+        "state": "",
+        "country": "UK",
+        "namespace": "cardiff-uk",
+        "lat": 51.4817,
+        "lng": -3.1792,
+        "population": 479000,
+        "processed": false
+    },
+    {
+        "city": "Z\u00fcrich",
+        "state": "",
+        "country": "Switzerland",
+        "namespace": "z\u00fcrich-switzerland",
+        "lat": 47.3744,
+        "lng": 8.5411,
+        "population": 436332,
+        "processed": false
+    },
+    {
+        "city": "Cape Town",
+        "state": "",
+        "country": "South Africa",
+        "namespace": "cape-town-south-africa",
+        "lat": -33.9253,
+        "lng": 18.4239,
+        "population": 433688,
+        "processed": false
+    },
+    {
+        "city": "Christchurch",
+        "state": "",
+        "country": "New Zealand",
+        "namespace": "christchurch-new-zealand",
+        "lat": -43.531,
+        "lng": 172.6365,
+        "population": 383200,
+        "processed": false
+    },
+    {
+        "city": "Florence",
+        "state": "",
+        "country": "Italy",
+        "namespace": "florence-italy",
+        "lat": 43.7714,
+        "lng": 11.2542,
+        "population": 380948,
+        "processed": false
+    },
+    {
+        "city": "Belfast",
+        "state": "",
+        "country": "UK",
+        "namespace": "belfast-uk",
+        "lat": 54.5964,
+        "lng": -5.93,
+        "population": 333871,
+        "processed": false
+    },
+    {
+        "city": "Venice",
+        "state": "",
+        "country": "Italy",
+        "namespace": "venice-italy",
+        "lat": 45.438759,
+        "lng": 12.327145,
+        "population": 261905,
+        "processed": false
+    },
+    {
+        "city": "Geneva",
+        "state": "",
+        "country": "Switzerland",
+        "namespace": "geneva-switzerland",
+        "lat": 46.2017,
+        "lng": 6.1469,
+        "population": 201818,
+        "processed": false
+    }
+]

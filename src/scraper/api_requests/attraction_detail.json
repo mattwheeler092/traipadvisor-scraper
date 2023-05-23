@@ -1,0 +1,26 @@
+[
+    {
+        "query": "79dcdfa7eeb117742fcd73853b3f32a8",
+        "variables": {
+            "request": {
+                "tracking": {
+                    "screenName": "Attraction_Review",
+                    "pageviewUid": "LIT@J@nkemdFxRMQFWJe@yJF"},
+                    "routeParameters": {
+                        "contentType": "attraction", 
+                        "contentId": null
+                    },
+                    "clientState": null,
+                    "updateToken": null
+            },
+            "commerce": {},
+            "tracking": {
+                "screenName": "Attraction_Review",
+                "pageviewUid": "LIT@J@nkemdFxRMQFWJe@yJF"
+            },
+            "currency": "USD",
+            "currentGeoPoint": null,
+            "unitLength": "MILES"
+        }
+    }
+]

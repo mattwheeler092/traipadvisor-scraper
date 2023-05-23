@@ -1,0 +1,20 @@
+{
+    "authority": "www.tripadvisor.com",
+    "accept": "*/*",
+    "accept-language": "en-GB,en;q=0.9,en-US;q=0.8",
+    "content-type": "application/json",
+    "origin": "https://www.tripadvisor.com",
+    "referer": "https://www.tripadvisor.com/Attraction_Review-g60713-d102523-Reviews-Alcatraz_Island-San_Francisco_California.html",
+    "sec-ch-device-memory": "8",
+    "sec-ch-ua": "\"Chromium\";v=\"112\", \"Microsoft Edge\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+    "sec-ch-ua-arch": "\"arm\"",
+    "sec-ch-ua-full-version-list": "\"Chromium\";v=\"112.0.5615.138\", \"Microsoft Edge\";v=\"112.0.1722.64\", \"Not:A-Brand\";v=\"99.0.0.0\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-model": "\"\"",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64",
+    "x-requested-by": "a6a74f304efeb73333c699ffb566e898ed06267f68529335aea4b1b46d595153"
+}
