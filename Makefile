@@ -19,7 +19,7 @@ install:
 .PHONY:
 setup: create_env
 	( \
-		. ./env/bin/activate; \
+		source ./env/bin/activate; \
 		make install; \
 		echo "$(OK_COLOR)Don't forget to activate venv before working on this project.\
 		\nCommand: \`source ./env/bin/activate\`.$(NO_COLOR)\n"; \
