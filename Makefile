@@ -5,7 +5,7 @@ OK_COLOR=\x1b[32;01m
 .PHONY: create_env
 create_env:
 ifeq ("$(wildcard ./env)", "")
-		python3 -m venv env
+	python3 -m venv env
 endif
 
 .PHONY: install
