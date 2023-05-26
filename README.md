@@ -2,7 +2,7 @@
 
 Travo.ai is an incredible travel planning app designed to make your trip planning experience seamless and personalized. By simply providing text prompts describing your desired activities, Travo.ai generates customized travel itineraries just for you!
 
-With access to a vast database of over 120,000 activities from 130 cities worldwide, sourced directly from TripAdviser, Travo.ai ensures that you have access to the best recommendations for your travel adventures. You can visit our  [website](https://eclectic-brioche-a372fe.netlify.app/) to try it out for yourself!
+With access to a vast database of over 120,000 activities from 130 cities worldwide, sourced directly from TripAdviser, Travo.ai ensures that you have access to the best recommendations for your travel adventures([more details](https://github.com/mattwheeler092/travo-ai-recommendation-engine)). You can visit our  [website](https://eclectic-brioche-a372fe.netlify.app/) to try it out for yourself!
 
 This GitHub repository encompasses the code required to scrape and process the 120,000 TripAdvisor events and activities. Topics covered include:
 
